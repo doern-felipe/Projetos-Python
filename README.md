@@ -12,10 +12,10 @@ O objetivo é consolidar o aprendizado da linguagem, registrar a evolução ao l
 Abaixo estão listados os cursos e projetos já concluídos ou em andamento. Cada tópico contém uma pasta própria com código, README e arquivos relacionados.
 
 1. Python: Crie sua primeira aplicação (Alura – 8h)
-- Introdução à linguagem Python.
-- Estrutura básica de programas.
-- Variáveis, tipos de dados e controle de fluxo.
-- Funções e modularização.
-- Construção de uma aplicação simples.
+    - Introdução à linguagem Python.
+    - Estrutura básica de programas.
+    - Variáveis, tipos de dados e controle de fluxo.
+    - Funções e modularização.
+    - Construção de uma aplicação simples.
 
 2. [Próximo curso/projeto]
